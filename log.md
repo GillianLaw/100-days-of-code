@@ -1,6 +1,6 @@
 s# 100 Days Of Code - Log
 
-### Day 0: Janary 5, 2022
+### Day 0: January 5, 2022
 
 **Today's Progress**: Getting started!
 
@@ -10,3 +10,16 @@ And another hour in the evening, reading through notes. I've been distracted by 
 
 **Link to work:**
 Nothing except this so far, but please check out my introduction. I'm considering a change of career and looking for what to learn next.
+
+### Day 1: January 6, 2022
+
+**Today's Progress**: Epiphany! I got my PythonAnywhere site to work.
+
+**Thoughts:** I went back to a PythonAnywhere site that used to work and now doesn't, and I don't know why. I spent a bit of time muddling with it and looking through the log, but I wasn;t getting far - so I decided to start afresh. (One thing I've noted is that I need a plan for this challenge or I sit down and think 'what will I do?' and get nowhere.)
+
+I'm been working through this and see have a basic site up: https://blog.pythonanywhere.com/169/#the-simplest-case-a-script-that-takes-some-inputs-and-returns-an-output
+
+I have some code - kind of janky code, but code - and I'd really like to get it online. I did have extra pages on this site - not sure why those aren;t working but I'll keep trying
+
+**Link to work:**
+The site: http://gilliancodes.eu.pythonanywhere.com
