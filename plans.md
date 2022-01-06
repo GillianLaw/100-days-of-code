@@ -19,7 +19,7 @@ sort and sorted - silly things I've forgotten
 removing things from lists
 
 **Projects**
-Countdown to holidays - my holiday at the beach is planned, but how many days do I have to go? Can I email myself every day? Send a photo? I can probably do this from PythonAnywhere.
+Countdown to holidays - my holiday at the beach is planned, but how many days do I have to go? Can I email myself every day? Send a photo? I can probably do this from PythonAnywhere. I could use web scraping to include the weather that day at our site, maybe other info. 
 
 Hi Lo game, to practice binary search, and try to add to it, make it more interesting
 
