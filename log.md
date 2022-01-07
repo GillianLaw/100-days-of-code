@@ -23,3 +23,11 @@ I have some code - kind of janky code, but code - and I'd really like to get it 
 
 **Link to work:**
 The site: http://gilliancodes.eu.pythonanywhere.com
+
+### Day 2: January 7, 2022
+
+**Today's Progress**: I don't have much time today so I've been working on an Advent of Code challenge from last year - day 2. Without success so far!
+
+**Thoughts:** I HAVE managed to do a lot, so I'm pleased with that, but I can't get the final part and it's driving me nuts. I think code is just ... in the wrong place? Nah, it works with the test data so it's something that's different about the main data and not working. Grrrr. Of course, even looking at Reddit for a hint doesn't help as it's all OOP and ... I know I need to get there but it's bewildering.
+
+**Link to work:** I've saved it to the same repo as this. Oddly, i was using replit and it stopped working at all - so I switched to Atom. I only use repl when I'm coding on my work computer, so no biggie. 
