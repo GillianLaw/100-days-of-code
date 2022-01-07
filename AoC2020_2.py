@@ -1,7 +1,7 @@
 import time
 
 
-with open('minidata.txt') as f:
+with open('data.txt') as f:
     change = [line.rstrip() for line in f]
 
 
@@ -9,9 +9,9 @@ with open('minidata.txt') as f:
 if __name__ == "__main__":
   replit_start_time = time.perf_counter()
 
-
+total = 0
 for line in change:
-    total = 0
+
     i = line.split(':')
   # print(i)
     j = i[0].split(' ')
@@ -25,15 +25,24 @@ for line in change:
     g = k[0].split()
 
     h = int(g[0][0])
+    print("h: ", h)
 
-    hh = int(g[0][2])
+    hh = int(g[0][-1:])
+    print("hh: ", hh)
     for letter in k[3]:
         if letter == k[1]:
             count +=1
+
     print('Count:', count)
+
+    # gg = range(h,hh+1)
+
     if count in range(h,hh+1):
         total += 1
         print('Total:', total)
+
+# This doesn't work, I think, when the start and finish numbers are double digit.
+
 
 
 # works to here
