@@ -1,5 +1,12 @@
 s# 100 Days Of Code - Log
 
+### Day 3: January 8, 2022
+
+**Today's Progress**: Five mins this morning muddling with AoC - got to go but I'll come back to it later. Back to it, and waiting five minutes before I can try my AoC answer again. And - it worked! Hurray. 
+
+**Thoughts:** I got in a right mess with slicing. Got to the point where I was looking up regex, when what I was trying to do was really quite simple. Kind of.
+
+**Link to work:** Same AoC code as yesterday - 2020 day 2. Part 1!
 
 ### Day 2: January 7, 2022
 
@@ -7,7 +14,7 @@ s# 100 Days Of Code - Log
 
 **Thoughts:** I HAVE managed to do a lot, so I'm pleased with that, but I can't get the final part and it's driving me nuts. I think code is just ... in the wrong place? Nah, it works with the test data so it's something that's different about the main data and not working. Grrrr. Of course, even looking at Reddit for a hint doesn't help as it's all OOP and ... I know I need to get there but it's bewildering.
 
-**Link to work:** I've saved it to a repo on github. Oddly, i was using replit and it stopped working at all - so I switched to Atom. I only use repl when I'm coding on my work computer, so no biggie. 
+**Link to work:** I've saved it to a repo on github. Oddly, i was using replit and it stopped working at all - so I switched to Atom. I only use repl when I'm coding on my work computer, so no biggie.
 
 ### Day 1: January 6, 2022
 

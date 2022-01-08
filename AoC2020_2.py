@@ -23,11 +23,18 @@ for line in change:
 
 
     g = k[0].split()
+    # print("G: ", g)
 
-    h = int(g[0][0])
+    if g[0][1] == '-':
+        h = int(g[0][0])
+    else:
+        h = int(g[0][0:2])
     print("h: ", h)
 
-    hh = int(g[0][-1:])
+    if g[0][-2:-1] == '-':
+        hh = int(g[0][-1:])
+    else:
+        hh = int(g[0][-2:])
     print("hh: ", hh)
     for letter in k[3]:
         if letter == k[1]:
@@ -42,25 +49,6 @@ for line in change:
         print('Total:', total)
 
 # This doesn't work, I think, when the start and finish numbers are double digit.
-
-
-
-# works to here
-
-# g = k[0].split()
-# # print(g)
-# # print(g[0][0])
-# h = int(g[0][0])
-# # print(h)
-# hh = int(g[0][2])
-# # print(hh)
-# if count in range(h,hh+1):
-#   total += 1
-
-
-
-  # need to work out how to work through all of k[3]. Can't be that hard! Yay, done that!
-  # Okay, now I need to compare 'count' to k[0]. Which ... hmm. It's a string. I have to make it an int. Of for x in range(k[0])? Is that a thing? okay, no, it's not! I'm going to have to transform k[0] into ... all the numbers in the range. How?
 
 
 
