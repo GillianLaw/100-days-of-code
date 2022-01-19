@@ -1,10 +1,18 @@
 s# 100 Days Of Code - Log
 
+### Day 4: January 9, 2022
+
+**Today's Progress**: I've OOPed (kind of) the AoC code from yesterday, added comments, generally tidied up.
+
+**Thoughts**: I need to improve my tweets! state which day, and that I'm using Python.
+
+**Link to work:**  As yesterday
+
 ### Day 3: January 8, 2022
 
 **Today's Progress**: Five mins this morning muddling with AoC - got to go but I'll come back to it later. Back to it, and waiting five minutes before I can try my AoC answer again. And - it worked! Hurray. (And I've done done part 2! Bit brain melty but easier than the first part)
 
-**Thoughts:** I got in a right mess with slicing. Got to the point where I was looking up regex, when what I was trying to do was really quite simple. Kind of.
+ I got in a right mess with slicing. Got to the point where I was looking up regex, when what I was trying to do was really quite simple. Kind of.
 
 **Link to work:** Same AoC code as yesterday - 2020 day 2. Part 1 and part 2!
 
